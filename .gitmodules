@@ -1,0 +1,3 @@
+[submodule "midi-keyboard-pico"]
+	path = midi-keyboard-pico
+	url = git@github.com:Willem-V/midi-keyboard-pico.git
